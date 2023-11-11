@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 178%;
+    color: white;
+
+}
+.header{
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+}
