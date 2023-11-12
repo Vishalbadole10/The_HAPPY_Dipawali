@@ -72,3 +72,11 @@ background-size: contain;
   border:2px solid #fff;
   border-radius:10px;
 }
+.coment p {
+  margin: 25px 0;
+  padding: 0;
+  font-size: 15px;
+  color:white;
+  line-height: 28px;
+  text-align: center;
+}
